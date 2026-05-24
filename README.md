@@ -92,7 +92,7 @@ This dashboard provides valuable insights into customer behavior and retention t
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+dashboard_preview.png
 
 
 ---
